@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Deka",
+  "wake_word": "dek_uh",
   "author": "bigjazzsound",
   "website": "",
   "model": "./dek_uh.tflite",
